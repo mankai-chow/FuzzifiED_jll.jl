@@ -1,0 +1,143 @@
+[[FuzzifiED]]
+arch = "aarch64"
+git-tree-sha1 = "34edf45db9ee141f0ef548d9051ea073e501c3c6"
+os = "macos"
+
+    [[FuzzifiED.download]]
+    sha256 = "a88ca0b6ff99d63c55cf11acac5825730b5a1b4271abd2a6dc8eba99baeb112b"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.aarch64-apple-darwin.tar.gz"
+[[FuzzifiED]]
+arch = "aarch64"
+git-tree-sha1 = "1485122aa46cb8442f8340fd543bae95f1c8e8c6"
+libc = "glibc"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "c5993abdd9d17d99c2827b81c2aa914456f9230997dfbf604188655461b40cc7"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.aarch64-linux-gnu.tar.gz"
+[[FuzzifiED]]
+arch = "aarch64"
+git-tree-sha1 = "4e46fdca7ebb5b12b79be0107d97b4a5fc614cf9"
+libc = "musl"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "9af11d76c86aff079b61066ee10a5a9c08b51a3f2af3dee0654a6f0441b29e6c"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.aarch64-linux-musl.tar.gz"
+[[FuzzifiED]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "51b9eabfe96760096c5982780a189f1fd80c69e2"
+libc = "glibc"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "ecf1d9da1d48e33fd1c06fa652499cd5a19698e02396d392a9fd5016b4cc46e9"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.armv6l-linux-gnueabihf.tar.gz"
+[[FuzzifiED]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8d07c683a639bbfd38aa833d4f4816ac52a13ef3"
+libc = "musl"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "adb9cf2cc5d407dc2456839c484728b524b62fbccde46bb9ea88aa775fe46c12"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.armv6l-linux-musleabihf.tar.gz"
+[[FuzzifiED]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "55e3856913982e52c06cfd1ad9c13328fcf25f1c"
+libc = "glibc"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "e1d53cbf773ae32492c22e48c4ffa597d264aba11620f637cd8bde6801fbf093"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.armv7l-linux-gnueabihf.tar.gz"
+[[FuzzifiED]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "89234a4c0d430bb8f420be450173f70eb796aeda"
+libc = "musl"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "d95dc4aadebaca9e3ec3e0280b2fc43be4c33116e457f11118d2e7d004c701d4"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.armv7l-linux-musleabihf.tar.gz"
+[[FuzzifiED]]
+arch = "i686"
+git-tree-sha1 = "5b315db429c28549f0b2b921924e82900b6bffee"
+libc = "glibc"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "1a0bac9faaa631fedb7781624da1d90620f68fcaf8bfb02eed3ebec95e724d2c"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.i686-linux-gnu.tar.gz"
+[[FuzzifiED]]
+arch = "i686"
+git-tree-sha1 = "5f7f0676fd3394818f1ec05b219809663cc14651"
+libc = "musl"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "5e87ebcf952d7aa350590a454e16b8a80d99ac7f44b6e969de8649a71a59ba7c"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.i686-linux-musl.tar.gz"
+[[FuzzifiED]]
+arch = "i686"
+git-tree-sha1 = "17b48635d3084f858dbf51e67d52eca6aa3f244f"
+os = "windows"
+
+    [[FuzzifiED.download]]
+    sha256 = "723fe7c926d19bb8c32f841b22f5136f9f7920de65a1ab10f4fd9ecff27397f3"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.i686-w64-mingw32.tar.gz"
+[[FuzzifiED]]
+arch = "powerpc64le"
+git-tree-sha1 = "4f3cfaad775f268a6ea64690351b4076ad60dbc4"
+libc = "glibc"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "6b8161b532942f031761e98c83a4a98eca87bdcb9e76711b6a0d1ae35afae201"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.powerpc64le-linux-gnu.tar.gz"
+[[FuzzifiED]]
+arch = "x86_64"
+git-tree-sha1 = "87c52bc4ee1fbfa4172b89f3e3604625e4d43839"
+os = "macos"
+
+    [[FuzzifiED.download]]
+    sha256 = "e1565f79d79c69bd9ee161896a6754d75ccb24687db8fa76a0044528433df7e6"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.x86_64-apple-darwin.tar.gz"
+[[FuzzifiED]]
+arch = "x86_64"
+git-tree-sha1 = "de0ffa6a5a1f6cf7b0b8abffe809d103820eece4"
+libc = "glibc"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "308442385639b6edb39cdfe5fa57e68e0341f7cb61c1d8b17942107751d8c072"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.x86_64-linux-gnu.tar.gz"
+[[FuzzifiED]]
+arch = "x86_64"
+git-tree-sha1 = "acd077b4c14295ecbd5a59e1a6d48a4333497f82"
+libc = "musl"
+os = "linux"
+
+    [[FuzzifiED.download]]
+    sha256 = "1e637a0f79c60a54bfe364e0df94f2e3bac5f22639cef257cca15faaf29f2c26"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.x86_64-linux-musl.tar.gz"
+[[FuzzifiED]]
+arch = "x86_64"
+git-tree-sha1 = "49ec8181fead01c2d74182c4f116a9e9d4121929"
+os = "freebsd"
+
+    [[FuzzifiED.download]]
+    sha256 = "f3473b7fcaa9ef17e43ab0bbd40eb6072cd3850f9153425b084cf440af17ffc4"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.x86_64-unknown-freebsd.tar.gz"
+[[FuzzifiED]]
+arch = "x86_64"
+git-tree-sha1 = "2d6d4518df15e43ecfb2eec5f766dbd0c84ca49d"
+os = "windows"
+
+    [[FuzzifiED.download]]
+    sha256 = "bf80c21e79d6dafe2a633be32159f3726afebf1439e444ad77f7ec43cb76979f"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.x86_64-w64-mingw32.tar.gz"
