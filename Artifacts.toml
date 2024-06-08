@@ -143,460 +143,460 @@ os = "windows"
     url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.5.2+0/FuzzifiED.v0.5.2.x86_64-w64-mingw32.tar.gz"
 [[FuzzifiED]]
 arch = "aarch64"
-git-tree-sha1 = "4ecaf0b973d26f66f98c2944b45b25301e2f8fe6"
+git-tree-sha1 = "640073ee2ef8e4bc5a83c4efbc1acc0b09c06d75"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[FuzzifiED.download]]
-    sha256 = "e1089984e11d3bb8823d41e2eaa6adde0870c62cb1a4b4f4d095cd5cb6fac9f9"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "73114c6518a0dd9ce5d88feb164923af31488c751017142b5ab1652b238d9c15"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "aarch64"
-git-tree-sha1 = "335015749f4d794fad1cd2a88571874bdc4ab590"
+git-tree-sha1 = "f6c2ba0a631621dea106290c1c7a7b7e6ec1c65f"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "379a62d76cfe97704e8b1257f961514d92f791141a4eea7a15b87ec070a67358"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "238843e1d788929fac913393fd174a3f2ab2ea68de0617ddbac3c8cc52781dcd"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "aarch64"
-git-tree-sha1 = "0a73f2d16136eb12b53a7827835539e4446e4a0d"
+git-tree-sha1 = "86c8a88f00d54f0e9fe56fc0e302808b6136020f"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "d6c532fe3e91d0f44977066eb8bf8c2dd9fc714ab5662c4559691bf1ebbfb39d"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "f3ff3dea90e76bccd09f2bacb48003372178a7402af83e88440e4f723b666942"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "aarch64"
-git-tree-sha1 = "212c848e242d4faf3f34c3ca5b03fe5b7f8b47be"
+git-tree-sha1 = "991e904ec678e0eb08b17f6a5556919e814ba804"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "18a29ed0f36c6cc080b0598ea3963deba131d6f714e3663e6a05913db4db1afc"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "c8b95eab79de6c1c3d2ede90af445245b29a849fd5da31dd10439f5afd8f000b"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "aarch64"
-git-tree-sha1 = "25dbf8fd70340a4612b7beb75d6a1f78405a1381"
+git-tree-sha1 = "104b242028c7228eddc787dbc362a9095e1b3419"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "7d4917c757c1c5fb19d0fe4ba28275fb56d2e39bc9ab97a2864a7cd7b2643928"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "6d2fbc6eb238689182bda568d89ae76193a6fee01ac19339f980a63cbf34bdec"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.aarch64-linux-musl-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "aarch64"
-git-tree-sha1 = "22c6a055e4a26b13d34773e6fe9d858e856f99db"
+git-tree-sha1 = "94bb5f670472a713e3cc29e027243545ab1a1d8a"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "cdff6008dcbed0f418e294c8429ef3b975db703c7a257fe709387aec6829f8ce"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "4a8b518d7b50b05122539f3dae26081d21510fdd36061371a78d833a2efbb6e2"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.aarch64-linux-musl-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "aarch64"
-git-tree-sha1 = "cd20ba3b5e1f8e7f01ca66e2775ee78318b57c65"
+git-tree-sha1 = "0d4aceded05a4f0b77951bd1211147f6fe11b33c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "3c8461c1a6f3fe4d971bfd3c3d508de29ce7db6ed70ea15a2e51110d94ba6bfc"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "2493086e97a021dda2225e6f9a8b015c0295cd5aa1e2991ecf908b4e4920561f"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.aarch64-linux-musl-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c4d3d62bc67e9c5cf06d8d938449b33aa7301870"
+git-tree-sha1 = "de38f209f3cc3b68bbd72ab6f698c95911ecb1ea"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "efdf45ece3f174796f4de6425b36b9ce935612909710c5948b420e46352df08b"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "7c8ae71725c1a65b51475cb3935e86c72c715c7eb0f5e560e2e5293478c043df"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "49d7bf108f65d0dc50b06e0cde3ff6a1ad2db6cd"
+git-tree-sha1 = "66be77fdf9c074f7e667b44d6accc3915d85d2c5"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "97b80c367c655cb8e28296588cf65bcb166b48008eb7713e19f6630561df22f5"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "b8c5da4143f10e0a2e0c07e84ea23085fd609dfc5a6315d761e8c194861d7af7"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d25e5555db0cf55121e9965308f0ddccc94caec4"
+git-tree-sha1 = "13204aa32145a59336f6c198dd676a140571a670"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "560f5b83ed7a58c6451e4b760e08505321992889cffe4a3728bbbdc8e8b619e5"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "46ff3f8dcc7199eb0979b206922853779be6ff4cc06920d28d04683130b86fca"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1ab6d3451940e05bfba87139684cb271ec982edc"
+git-tree-sha1 = "a18da759a7a1040e0ecc62aa085b1edb0810df9c"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "b9f99a3b994531e27dd7e060e18b2d5ce38bceb87182910a42e0f67235bb5d21"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "c8c604e7725b047d9c6b01a64733903885a9b0ce47581dbb034f605f7e4c9526"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "14728696240e485cb081add55a4bb8c015740553"
+git-tree-sha1 = "dc1bbf0963716cee272a572b99dc018bac229ca3"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "d350611ddb8dfa6c7f86637cd485d4bdf6c7b0837da86d9beec6ea43469fab68"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "90a6805c9d9ceba60f7cbcab6277ee8b1286f6e2ec3ea3ee6b7b16a5680beac6"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "40b4260dc9a9353e92edd5c0b7093b9f79a13592"
+git-tree-sha1 = "d843be3244c725cef4e1222073e6b496781a19d1"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "3d84da33ca04ffb1204ee0d6fad67547fc79b0f0d722dd470e62b81d9763d23e"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "aa8b2a13284115524a6c1126382943461531a76d5419bec9134b4feebee8e7ee"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "fb96e9c01eb67a6dec25a8d3520d35969f22bee8"
+git-tree-sha1 = "3ea77edeb93571b7f08386246b5640cf77af4b91"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "27991d7b7181bc0a0695f567867bd39bb0b6a8b2072564bba8421fc3be3114a0"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "0e47090ee9d91a23e5557c3f421973ae1b60292c176259e555af3b2f77e4e0e4"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "415a4ffe2072f047fba9ddbd1bd9913c19cfb221"
+git-tree-sha1 = "1b3cc29c5e2cbb562cbcab75fb90ede003aabcc7"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "bb7e6aea6d39dd198aaf1a6cfa634e2297f6d8328b54209f616914a96aaaba7f"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "dc101ee0e27cb1cfd6060dc291760bd0aee402ed5f257a9a037bbc91ccecee49"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "bc204de6a76c8f89de4dfffa47fe1d9d172acea2"
+git-tree-sha1 = "6ef37e0b6216221c886793ea6194c801a056a161"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "55e6dd498f4124a7a18e4ce145dca7975e8fb4b4633ebee4db17a63879d8f397"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "dfe1904385d4168993f4a08ef58c8881f8cb26993c3c6396b586fbe3aac6b786"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "89ecd5826e7d3049c11388a54458703e7c4749e8"
+git-tree-sha1 = "c9c92bfe92e8569387108d043e979260aa6cfbd1"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "ae638c32456703268a305ee38e6b07d7cef1272449b7971a320fb60681dd53d2"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "dd6b2f097586821aa3bdd38f1f7a757d8058275f33d87aed804d89d2bd24360c"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "26826fc14e6f52d799b144a0434bee4039ed4f6c"
+git-tree-sha1 = "545a36cbc7e4de19af34c56e7cb2b290e0a1ba43"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "b2ad0db913f8c639a3558509599543b564e8a029b59093206731be64176fb807"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "91630e1e37cde8fb29efd6d289219d20682b6504331103dba300f82cfca1d19f"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "dfe7e8968003ef53738373e4e3403345727cf79c"
+git-tree-sha1 = "948e9f70efa54f4d1bb912b27e94bd1990e7b968"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "4236d5d9c65feda67b4326226f87441143523fc21430db8c88021f1fac403a7d"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "0db2124b222513f055c52bced58c6af9fc0e1a2aa15e6fd0c2f82e2f051b3037"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "75d2cd605fc42edf38b2a78f57a5ce3440b7a63a"
+git-tree-sha1 = "61eac5d5cb7889fdded7c43fd4c2a1ce86df626d"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "fad38f974bcf1f3380f969088376f52f2c15471c3633ba757910578451f06573"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "924609856bfdf2cbdb26dbd1fe64f474f4328314c7bc41e097e3e83cd6f3b440"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-linux-gnu-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "b43e70a644a5bc7bec04f7fdc0cd5087e7f70ef4"
+git-tree-sha1 = "80360dc15e320450e3464aaeed0e85b86d6bc5f3"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "a2257c59f48c69d10f0ea1fadd20128b98edae0c5e46faa94e4886984ddf3c1f"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "6815229243ca11712f3e260fad481baf112f2385f3c7c6018d7b8a0b48c3e3d5"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-linux-gnu-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "a174e337d5fba962648810879120daa9dbb2cd2c"
+git-tree-sha1 = "e084e1690f85c8e2dc932c628ebb802d53fa9089"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "9e7d8f814c180e0234885e5c8e0f5b95aca71c38b5ab9748fac94390ffbbf2f4"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "75db0f3b5a283187fcfdd63420e01f519479bef5aca0344ae4997c1e826ccb2f"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-linux-gnu-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "344ca47faa7147510938eed73e9af090b9c8e70e"
+git-tree-sha1 = "2ddb8c781b4e37d8b1610e4725a49ad5c1e4c47e"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "1434724a4e82449d8840820b88eac5b4358a9368288495d32492b1910a126d1b"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "f564d400acbcde42f9d6fb3f25b43e9172c7b0fdee56ec5f8f6031ccefbd2b57"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-linux-musl-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "7f3eba36d7676e540364262fb42a93fe6f169ad9"
+git-tree-sha1 = "50470e3fd0f9391edf1afce49eeacb70f3abd3e0"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "e22324d597cbc06efb66d73ca304f9dd27f419caaa6ec9bc7c536ab3f675630a"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "2842f67428ef28b3b07e890d49f83acc7e9a69975d4b196f7fdca31faec18715"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-linux-musl-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "6a7ecb8efd45f032ab55d0030c8ebbbfdd7f9065"
+git-tree-sha1 = "ef5bbd18ffa3453d4abd469afd0bdf0eae35470b"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "0b96d2e71b5ed2aca2323202bcd6e7bd24496536443421ff3a24c97b830934d8"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "c9baa47a12dc288fe60c66218f21fd92f42a1e50239859f7fe6f34a67bf028e4"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-linux-musl-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "7563a559aa74982b77b10e04231f3493f637ca57"
+git-tree-sha1 = "3f54167e6392082fabedb17b52668ca78625ca0a"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[FuzzifiED.download]]
-    sha256 = "c9e84a1fa1cd6960d06a7407e9055bc6f345c62f4bca607de89fa4e58198e607"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "4f1e1a63373f8a0f1050dd664524dcd3c9803fb63baeeef1f7e4c36a172d5168"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-w64-mingw32-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "e66f97b01f5bf1876619463bd1cb10b864b31ec5"
+git-tree-sha1 = "5420cb0e1e4f8b808e630e77b8a63fc3728433f4"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[FuzzifiED.download]]
-    sha256 = "ab05dcdf6dff6fd80c22239c05609f7ddb365d194f69b4ff91f0cc6b603806ee"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "8ba5aea11124f738e408720ca3ae5aa988988c40a946124d655222cf7e3f80ec"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-w64-mingw32-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "i686"
-git-tree-sha1 = "2a9741e51b88a6ab2daa25982406c6ffc4e19d53"
+git-tree-sha1 = "7f85ba06d0b3857aa2b718019cb6323b8e3fc321"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[FuzzifiED.download]]
-    sha256 = "95eb5df812c0d7a939b25109ca003868e8b75e3b77fd6dcab738f9ffd75d11a8"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "62e84e33460ce32e2c1ad9235a664729a5776f96bfaf7ef068db6d229d95da58"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.i686-w64-mingw32-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "powerpc64le"
-git-tree-sha1 = "4300cbbcab16bc62b0f28ca3a81f73b0e1ebf240"
+git-tree-sha1 = "b394966fcdce98ee0a2a5cb73ebe1107c94aa838"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "50e06c1cae2adf8fc8b275b40e4c19cd8f26658e019225a90da37b8c65fe2eea"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "198ed3c22f7117305f6ef3672df012082e14c8f2db3cf5468735261779f08477"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "powerpc64le"
-git-tree-sha1 = "f3ca8b3e42de57e1d70e0bbc6904da87ab6ab141"
+git-tree-sha1 = "d354366e4da0d40cf0f1bbbc50a1612db01fad9b"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "3b6f9369ab505e4fef98987a62f6e0cb1989c4d6f0324c85527523c20fec1858"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "f1b5a9459362b7830dc90d76fc4db6be14511ccf7fd158a146d81f18add5ee2e"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "powerpc64le"
-git-tree-sha1 = "00c3664bbcb4fea84fe0b394c4e68d23ff3ce100"
+git-tree-sha1 = "5ad012d6374185fa533baa9e5047f437ecf2445c"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "57742b7b71453848ac861a422a63edf27199f3fc5c51f7202c428c0616767d1c"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "1f67b9331c3af8336e470095ed6a19f38486728c450b108babc545d3c6cf249c"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "c11d067661aff51fe31bf68501c091ef4177ee17"
+git-tree-sha1 = "09403ac243ae093cf4b3b46823b8b3ebd42a230f"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[FuzzifiED.download]]
-    sha256 = "2c4306f707bc061390c01f068d0ac4a7d31ca962537cced5cda75e645c1ce985"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "3b28afa332fb669cfe3ee1b60a5eee2d3597c93519125f9150840e10d3e6ad49"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "de1b8b3b52258a896d52352cd02cd696e59b5395"
+git-tree-sha1 = "c85886f101a036f0cc232b988a46530ae1a8068e"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[FuzzifiED.download]]
-    sha256 = "d533bc9ba0da4b1d1ede6a3092005b358358934add603cbe0e9c787624fb8c73"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "9b7c9323833ebd9e976d20939013aff119a7bfec5d420b08cab4bdc2933c4cdd"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "a429155ff57cf8a3fc06976ec028449e279d3897"
+git-tree-sha1 = "de09905a981cef0f1dbb4558302554ba18abd779"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[FuzzifiED.download]]
-    sha256 = "408f49246d9bfdab3f4089021a41fdfef62c804d7dd41f5d1c73fcef4e2ab37f"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "36f7a268efc577e6ae232dd4bbf831cf060d610d97c0b65ee676f92e05617345"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "b353b689dfe814831273dbe6f722e79d3f518c82"
+git-tree-sha1 = "7beebaa3cf8645739502b12858030f6e4a0dd469"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "fd4be73d10faeb22573d521f53ce300f6ed4fb1ab03837dbda52254465341ee6"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "849b001450aa9f6df5dbe18af7011ec3df64549eb88c53c9bfef9a6bb26846f0"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "330c50e1c096a7775f721862812ee743040faa3c"
+git-tree-sha1 = "43380af00c4037ef233317a52b3412b8d2a78cef"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "be0ea79d3b7b07544b5bdc1b418f52eb42a9b93a6d551b7184a11379f654b5da"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "cfd3e445865ef7f0796e7cd095d503aec823ed3d05b303d7be2c0278b0e5f4b5"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "fe97f3584ad2047f390d49dfad02a0af397f1172"
+git-tree-sha1 = "c2295f6ac1c8ef592390a52b21c7cf14ef9893d0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "144e966785a1111bcead3f2241c393dd70e46fb269014372baf85294bd047dcd"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b99171feca5824839dd7483a4550e630121d90f9681528c54483e4891ce96a7d"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "85c4129346e8cfb1ca7a12de9c525c3f65db114f"
+git-tree-sha1 = "deaf22cc476c0db1de2d9f9514bdefc4b0ba74c6"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "8d449fc7667c9ee5fe9cf71cedba547b004edc0a9c4a22f799fa480b5f42bb7b"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "e2455b8678e32f505027d58d1f3cc9cd6a35b213be8ea0767aa7c698557e6292"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-linux-musl-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "8f6de0dfd42d303bef7da1a3d4d833edf20ff447"
+git-tree-sha1 = "48720b176d01d6923add9c157a7668f8a91ff896"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "cd259c01a464d8a8a9626662a6c9327146586f812305a4075db01c1bf574a109"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "9a56e0ec98775a09f94e9086fc78958afed107f169296d4d7f5d51817d8e983f"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-linux-musl-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "2558ed26003f7fe2e1f1bb1653e561c53c649444"
+git-tree-sha1 = "b4c678bf495b7f587954d7de01297d1747062e0d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FuzzifiED.download]]
-    sha256 = "ce967b24f7f03e12796d8dddfabf74e0056313889869bbd2b9a345030591b833"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "7010486a6cc257075740d0565562acd7ffe137b14090b0284fb1586aa8965592"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-linux-musl-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "4a0b36786f26ae4814d1022748161531678265ee"
+git-tree-sha1 = "a85d0fce0e972ed2efd85154061c375ad1b1acf7"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[FuzzifiED.download]]
-    sha256 = "107357acc5f5e3a9d3de81c6496655fe7e2def486416fd8f8f754790280d53e9"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "cd59c9aa1ea32f0414ec75bd8f3327c9c965cfdfe2dc203e77d0f84f9ed82a0c"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "b9b5fa74c1ac06f7dda7ddb6a752c5b13be97b8b"
+git-tree-sha1 = "90aad6ce58a424eb039f1560a37a0556b98a83d1"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[FuzzifiED.download]]
-    sha256 = "bd2d2daf4442dd97a68480c3b48bbbf4090cee11e23d75f01fa755b6d8e0cd01"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "5304187c7edea4f3ea390da5094f8736258eb6c0bc20d3c38516c928cf931b42"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "988721ce17e63eac551e2138009793fcf021569e"
+git-tree-sha1 = "162f502488c19465ba9af9262c629aa5d2dfc1d0"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[FuzzifiED.download]]
-    sha256 = "5d2f56e35183fe764ade821eb42de46e074c16b6ecf74f9358bccf25546f42df"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "9b55c6f80c4bbbd1f05293833e69dff3e8eff545d404b5c9d4d53f6b89c52e48"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "8d0d138e74d83bbe19fd746589d29581c8cd115f"
+git-tree-sha1 = "24b6c804475a00427de59ab03047767260d52a2a"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[FuzzifiED.download]]
-    sha256 = "01dc67ae6ac3bcc3f4782737b57247ceb9c9542a6dac1c1b887f7cb7e58e24aa"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "e2684263e0cbddcce1797d5982e8a280747391fee32120418f56c2dbf0e6e25f"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "3f00f8b50b1d305bf6565a8208362a707a57bcf0"
+git-tree-sha1 = "d21c8baec05453d013d3b3f4d6752f76b2484c8e"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[FuzzifiED.download]]
-    sha256 = "ff73c1c28fece960d95a5c0796a8f1d544d9b355195f5432969c4082e6e5d88c"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "ef85252c162eee6a6ad85fe77f1c13f56244aae712d88f73ca75bce377eb1975"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[FuzzifiED]]
 arch = "x86_64"
-git-tree-sha1 = "7876bdb888d24e9318cfb80cf8b84a3f706ba6e2"
+git-tree-sha1 = "f2ab0aca2b781f09e30f84d8c7bbc087f4dc6699"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[FuzzifiED.download]]
-    sha256 = "54dd8d8156848559b058ebd35a0b41324bad59832ed1480c76079546a86c0c38"
-    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.5+0/FuzzifiED.v0.6.5.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "1c68a85ee173932fbeba55ec256caca43c21422aacf692916d8745d7ca5a7b39"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.6.6+0/FuzzifiED.v0.6.6.x86_64-w64-mingw32-libgfortran5.tar.gz"
