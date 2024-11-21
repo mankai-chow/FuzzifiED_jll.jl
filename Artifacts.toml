@@ -211,6 +211,24 @@ os = "linux"
     sha256 = "778f43263b0ede7f641060f24f915f01343865e6a2509f1327bfaa6d08e13f2c"
     url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.9.0+0/FuzzifiED.v0.9.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[FuzzifiED]]
+arch = "aarch64"
+git-tree-sha1 = "2613c078d39034b133b3462e67ac6be37eb77dfa"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[FuzzifiED.download]]
+    sha256 = "59ae3ff037045964dc25207278d2a38a938ed92ea939b47926c5c59b79c2b9fd"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.9.0+0/FuzzifiED.v0.9.0.aarch64-unknown-freebsd-libgfortran4.tar.gz"
+[[FuzzifiED]]
+arch = "aarch64"
+git-tree-sha1 = "1cf5ed3904dd513035a6981cb15d774e8a3eaef6"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[FuzzifiED.download]]
+    sha256 = "212741fdec065726f3082241adf954bf26d382131b79532415f6b436207ed1f6"
+    url = "https://github.com/mankai-chow/FuzzifiED_jll.jl/releases/download/FuzzifiED-v0.9.0+0/FuzzifiED.v0.9.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[FuzzifiED]]
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "e7d3bf8d3dcd7b2502f548b90bb964fa050807c2"

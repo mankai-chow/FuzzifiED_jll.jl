@@ -13,5 +13,5 @@ LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Libdl = "1"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"

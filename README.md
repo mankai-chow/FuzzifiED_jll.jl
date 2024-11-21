@@ -23,6 +23,8 @@ The tarballs for `FuzzifiED_jll.jl` have been built from these sources:
 * `Linux aarch64 {libc=musl, libgfortran_version=3.0.0}` (`aarch64-linux-musl-libgfortran3`)
 * `Linux aarch64 {libc=musl, libgfortran_version=4.0.0}` (`aarch64-linux-musl-libgfortran4`)
 * `Linux aarch64 {libc=musl, libgfortran_version=5.0.0}` (`aarch64-linux-musl-libgfortran5`)
+* `FreeBSD aarch64 {libgfortran_version=4.0.0}` (`aarch64-unknown-freebsd-libgfortran4`)
+* `FreeBSD aarch64 {libgfortran_version=5.0.0}` (`aarch64-unknown-freebsd-libgfortran5`)
 * `Linux armv6l {call_abi=eabihf, libc=glibc, libgfortran_version=3.0.0}` (`armv6l-linux-gnueabihf-libgfortran3`)
 * `Linux armv6l {call_abi=eabihf, libc=glibc, libgfortran_version=4.0.0}` (`armv6l-linux-gnueabihf-libgfortran4`)
 * `Linux armv6l {call_abi=eabihf, libc=glibc, libgfortran_version=5.0.0}` (`armv6l-linux-gnueabihf-libgfortran5`)
